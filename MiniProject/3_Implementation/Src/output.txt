@@ -1,0 +1,22 @@
+		Welcome to the scientific calculator!!
+
+
+####### Press 0 to quit the program ########
+Enter 1 for Addition 
+Enter 2 for Subtraction 
+Enter 3 for Multiplication 
+Enter 4 for Division 
+Enter 5 for Modulus
+Enter 6 for Power 
+Enter 7 for Factorial 
+Enter 8  for square 
+Enter 9  for cube 
+Enter 10 for squareroot
+
+
+
+Enter the operation you want to do: 
+Enter the numbers you want to add: The sum of a and b is 50
+
+
+Enter the operation you want to do: 
